@@ -8,3 +8,6 @@
 - Enter x2
 - Enter y2
 - Then the program will calculate the distance.
+
+# What Did I Change In The Code?
+- I upgraded my comments to be more insightful and understandable.
