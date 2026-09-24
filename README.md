@@ -11,3 +11,4 @@
 
 # What Did I Change In The Code?
 - I upgraded my comments to be more insightful and understandable.
+- I made my comments clearer and more specific.
